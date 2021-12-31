@@ -7,6 +7,7 @@ The project folder contains 3 python files:
 2. kmeans.py
 3. analysis.py
 
+#####
 1. exploration.py
 
 This script contains the exploration of the MNIST dataset. It used digits-raw.csv to view each digit as 28*28 grayscale matrix. It uses digits-embedding.csv to visualize 1000 random data points with their cluster labels.
