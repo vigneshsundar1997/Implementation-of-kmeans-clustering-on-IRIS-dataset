@@ -1,5 +1,5 @@
-# Implementation-of-kmeans-clustering-on-IRIS-dataset
-Implementation of the the kmeans clustering algorithm from scratch using Python on IRIS dataset and analyzing the various hyperparameters
+# Implementation-of-kmeans-clustering-on-MNIST-dataset
+Implementation of the the kmeans clustering algorithm from scratch using Python on MNIST dataset and analyzing the various hyperparameters
 
 
 The project folder contains 3 python files: 
