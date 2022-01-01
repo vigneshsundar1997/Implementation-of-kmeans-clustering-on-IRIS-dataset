@@ -1,6 +1,7 @@
 # Implementation-of-kmeans-clustering-on-MNIST-dataset
 Implementation of the the kmeans clustering algorithm from scratch using Python on MNIST dataset and analyzing the various hyperparameters
 
+Also calcuate the Silhoutte Coefficient, Within Cluster Distance and Non-Mutual Information Gain.
 
 The project folder contains 3 python files: 
 1. exploration.py
